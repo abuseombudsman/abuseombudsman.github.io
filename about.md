@@ -18,7 +18,7 @@ You can find the source code for Jekyll at
 						<div class="Welcome">
 							<h2 class="title"><a href="/about/#Welcome">Welcome to Embodied</a></h2>
 						</div>
-							<p class="meta">Posted by <a href="//idiaminx.github.io">idiaminx</a> on September 20, 2016
+							<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 20, 2016
 								&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="/about/#'Welcome'" class="permalink">Full article</a></p>
 							
 								<p><img src="/images/img08.jpg" width="186" height="186" alt="" class="alignleft border" />This is <strong>Embodied </strong>, a free, fully standards-compliant CSS template designed by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.  The picture in this template is from <a href="http://pdohoto.org">PDPhoto.org</a>. This free template is released under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so you’re pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :)</p>
@@ -29,7 +29,7 @@ You can find the source code for Jekyll at
 						<div id="entry"><div class="El Asador">
 									<h2 class="title"><a href="/about/#El Asador">El Asador</a></h2>
 								</div>
-								<p class="meta">Posted by <a href="//idiaminx.github.io">idiaminx</a> on September 20, 2016
+								<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 20, 2016
 								&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="/about/#'El Asador'" class="permalink">Full article</a></p>
 							
 								<p><img src="/images/img09.jpg" width="186" height="186" alt="" class="alignleft border" />El asador representa antes que nada y ni màs ni menos un boquete en la seguridad del Estado Democràtico. Los paìses que tienen asadores se caracterizan entonces por la desuniòn, el 			sarcasmo a los màs dèbiles, por lo general son Estados de marcadas desigualdades econòmicas en donde los grandes permanecen impùnes y la traiciòn al pròjimo està a la vuelta de la 				esquina, todo esto en un marco de sarcasmo y fanfarronerìa que para hacerse a una idea una expresiòn de la màs conocida banda de basurera en español, Hermètica, que coincidìa en una 				burbujeante orgìa de magia negra. Es salado el tema del asador.</p>
@@ -38,14 +38,14 @@ You can find the source code for Jekyll at
 						<p>&nbsp;</p>
 						<p>El mercantilismo es un <a href="//punto(bad)">desequilibrante</a> en la sociedad, son impùnes los grandes, los resquemores estàn al orden del dìa (crean la desuniòn) como decìa son impùnes los grandes y  			se aseguran que la desuniòn reine en el Estado <a href="//punto(bad)">anti-democràtico</a> <a href="//punto(bad)">super-mercantilista</a> y la mente del asador indirectamente oligarca, y porque no directamente oligarca, finaliza 				con la desmoralizaciòn de la sociedad, la descolectivizaciòn, el ostracismo y aislamiento del individuo, la tristeza. Este sistema es utlizado en cuanta guerra Estados-Unidos ha estado 				involucrado en el mundo. Por ejemplo LaArgentina jamàs tuvo una chance en el tema deMalvinas con la existencia de asadores porteños en la sociedad bonaerense. Por hoy, nada màs. 				¡Ma§sticarla!</p>
 						<p>&nbsp;</p>
-						<p><h3>IDI AMIN (ND) &trade;</h3></p>
+						<p><h3>ABUSEOMBUDSMAN (ND) &trade;</h3></p>
 					
 							
 						</div><br><br>
 						
 						<div id="entry"><div class="Chardikla">
 							<h2 class="title"><a href="/about/#Chardikla">Chardikla Time TV</a></h2></div>
-							<p class="meta">Posted by <a href="//idiaminx.github.io">idiaminx</a> on September 20, 2016
+							<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 20, 2016
 								&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="/about/#'Chardikla'" class="permalink">Full article</a></p><br>
 
 <iframe width="576" height="384" src="https://www.youtube.com/embed/vF3i9p1byLM" autostart="true" frameborder="0" allowfullscreen></iframe></div><br><br>
