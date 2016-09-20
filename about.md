@@ -12,8 +12,8 @@ You can find the source code for the Jekyll new theme at:
 
 You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)<br><br>
-
+[jekyll](https://github.com/jekyll/jekyll)<br><br><br><br>
+<html><body>
 					<div><div id="entry">
 						<div class="Welcome">
 							<h2 class="title"><a href="/about/#Welcome">Welcome to Embodied</a></h2>
@@ -24,7 +24,7 @@ You can find the source code for Jekyll at
 								<p><img src="/images/img08.jpg" width="186" height="186" alt="" class="alignleft border" />This is <strong>Embodied </strong>, a free, fully standards-compliant CSS template designed by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.  The picture in this template is from <a href="http://pdohoto.org">PDPhoto.org</a>. This free template is released under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so you’re pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :)</p>
 								
 							
-						</div></div><br><br>
+						</div></div><br><br><br><br><br><br><br><br>
 				
 						<div id="entry"><div class="El Asador">
 									<h2 class="title"><a href="/about/#El Asador">El Asador</a></h2>
@@ -46,7 +46,9 @@ You can find the source code for Jekyll at
 						<div id="entry"><div class="Chardikla">
 							<h2 class="title"><a href="/about/#Chardikla">Chardikla Time TV</a></h2></div>
 							<p class="meta">Posted by <a href="//idiaminx.github.io">idiaminx</a> on September 20, 2016
-								&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="/about/#'Chardikla'" class="permalink">Full article</a></p></div><br><br>
+								&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="/about/#'Chardikla'" class="permalink">Full article</a></p><br>
+
+<iframe width="576" height="384" src="https://www.youtube.com/embed/vF3i9p1byLM" autostart="true" frameborder="0" allowfullscreen></iframe></div><br><br>
 						
 						<div style="clear: both;">&nbsp;</div>
-					<!--</div>-->
+					<!--</div>--></body></html>
