@@ -48,7 +48,32 @@ You can find the source code for Jekyll at
 							<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 20, 2016
 								&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="/about/#'Chardikla'" class="permalink">Full article</a></p><br>
 
-<iframe width="576" height="384" src="https://www.youtube.com/embed/vF3i9p1byLM" autostart="true" frameborder="0" allowfullscreen></iframe></div><br><br>
+<center>
+									<table><tbody>
+
+		      <tr>
+			<td width="21" background="/about/12421152032.png" height="13"></td>
+			<td background="/about/55452124552.png" height="13"></td>
+			<td width="21" background="/about/45454787.png" height="13"></td>
+		      </tr>
+
+		      <tr>
+			<td width="21" background="/about/21210212120.png"></td>
+			<td>
+<div id="media"><iframe width="432" height="288" src="https://www.youtube.com/embed/vF3i9p1byLM" autostart="true" frameborder="0" allowfullscreen></iframe></div></td>
+                        <td width="21" background="/about/203233451.png"></td>
+                     </tr>
+
+                     <tr>
+                        <td width="21" background="/about/23121542.png" height="17"></td>
+                        <td background="/about/12345456.png" height="17"></td>
+                        <td width="21" background="/about/2656564.png" height="25"></td>
+                     </tr>
+
+</tbody></table>
+
+					
+				</center></div><br><br>
 						
 						<div style="clear: both;">&nbsp;</div>
 					<!--</div>--></body></html>

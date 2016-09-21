@@ -16,6 +16,7 @@ permalink: /blog/
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
+	{% if page.content %}<p>{{ page.content }}{{ excerpt | escape}}</p>{% endif %}<br>
       </li>
     {% endfor %}
   </ul>
