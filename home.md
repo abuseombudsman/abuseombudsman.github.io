@@ -15,10 +15,6 @@ Argentina.
 
 <html>
 <a href="/images/proseguire.jpg"><img src="/images/proseguire.jpg" width="600"></a><br><br>
-
-## En su punto = LoGom
-<pre>                              
-      </pre>
 <a href="/images/amarheloeneutro.jpg"><img src="/images/amarheloeneutro.jpg" width="600"></a>
 </html>
 
