@@ -8,19 +8,19 @@ categories: jekyll seo-tag
 
 A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 
-[![Gem Version](https://badge.fury.io/rb/jekyll-seo-tag.svg)](https://badge.fury.io/rb/jekyll-seo-tag) [![Build Status](https://travis-ci.org/jekyll/jekyll-seo-tag.svg)](https://travis-ci.org/jekyll/jekyll-seo-tag)
+['![Gem Version](https://badge.fury.io/rb/jekyll-seo-tag.svg)'](https://badge.fury.io/rb/jekyll-seo-tag) ['![Build Status](https://travis-ci.org/jekyll/jekyll-seo-tag.svg)'](https://travis-ci.org/jekyll/jekyll-seo-tag)
 
 ## What it does
 
-#Jekyll SEO Tag adds the following meta tags to your site:
+Jekyll SEO Tag adds the following meta tags to your site:
 
-#* Pages title (with site title appended when available)
-#* Page description
-#* Canonical URL
-#* Next and previous URLs on paginated pages
-#* [JSON-LD Site and post metadata](https://developers.google.com/structured-data/) for richer indexing
-#* [Open graph](http://ogp.me/) title, description, site title, and URL (for Facebook, LinkedIn, etc.)
-#* [Twitter summary card](https://dev.twitter.com/cards/overview) metadata 
+* Pages title (with site title appended when available)
+* Page description
+* Canonical URL
+* Next and previous URLs on paginated pages
+* [JSON-LD Site and post metadata](https://developers.google.com/structured-data/) for richer indexing
+* [Open graph](http://ogp.me/) title, description, site title, and URL (for Facebook, LinkedIn, etc.)
+* [Twitter summary card](https://dev.twitter.com/cards/overview) metadata 
 
 While you could theoretically add the necessary metadata tags yourself, Jekyll SEO Tag provides a battle-tested template of crowdsourced best-practices.
 
