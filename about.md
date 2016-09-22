@@ -38,7 +38,7 @@ You can find the source code for Jekyll at
 						<p>&nbsp;</p>
 						<p>El mercantilismo es un <a href="//punto(bad)">desequilibrante</a> en la sociedad, son impùnes los grandes, los resquemores estàn al orden del dìa (crean la desuniòn) como decìa son impùnes los grandes y  			se aseguran que la desuniòn reine en el Estado <a href="//punto(bad)">anti-democràtico</a> <a href="//punto(bad)">super-mercantilista</a> y la mente del asador indirectamente oligarca, y porque no directamente oligarca, finaliza 				con la desmoralizaciòn de la sociedad, la descolectivizaciòn, el ostracismo y aislamiento del individuo, la tristeza. Este sistema es utlizado en cuanta guerra Estados-Unidos ha estado 				involucrado en el mundo. Por ejemplo LaArgentina jamàs tuvo una chance en el tema deMalvinas con la existencia de asadores porteños en la sociedad bonaerense. Por hoy, nada màs. 				¡Ma§sticarla!</p>
 						<p>&nbsp;</p>
-						<p><h3>ABUSEOMBUDSMAN (ND) &trade;</h3></p>
+						<p><h3>ABUSEOMBUDSMAN (ND)CULTURA</h3></p>
 					
 							
 						</div><br><br>
