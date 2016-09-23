@@ -22,7 +22,7 @@ Jekyll SEO Tag adds the following meta tags to your site:
 * [Open graph](http://ogp.me/) title, description, site title, and URL (for Facebook, LinkedIn, etc.)
 * [Twitter summary card](https://dev.twitter.com/cards/overview) metadata 
 
-While you could theoretically add the necessary metadata tags yourself, Jekyll SEO Tag provides a battle-tested template of crowdsourced best-practices.
+<!--While you could theoretically add the necessary metadata tags yourself, Jekyll SEO Tag provides a battle-tested template of crowdsourced best-practices.-->
 
 ## What it doesn't do
 
