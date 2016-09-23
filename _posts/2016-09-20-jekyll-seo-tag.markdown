@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: default
 title:  "Jekyll SEO Tag!"
-date:   2016-09-20
+date:   2016-09-23          +02:00
 categories: jekyll seo-tag
 ---
 # Jekyll SEO Tag
 
 A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
+
+[![Gem Version](https://badge.fury.io/rb/jekyll-seo-tag.svg)](https://badge.fury.io/rb/jekyll-seo-tag) [![Build Status](https://travis-ci.org/jekyll/jekyll-seo-tag.svg)](https://travis-ci.org/jekyll/jekyll-seo-tag)
 
 ## What it does
 
