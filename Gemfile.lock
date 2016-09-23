@@ -138,9 +138,3 @@ DEPENDENCIES
   kramdown (~> 1.11.1)
   liquid (~> 3.0.6)
   minima
-
-RUBY VERSION
-   ruby 2.2.5p319
-
-BUNDLED WITH
-   1.13.1
