@@ -20,10 +20,11 @@ gem "minima"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-	gem "jekyll-seo-tag", "~> 2.0.0"
+#	gem "jekyll-seo-tag", "~> 2.0.0"
 	gem "github-pages", "~> 96"
 	gem "liquid", "~> 3.0.6"
 	gem "kramdown", "~> 1.11.1"
 #   gem "jekyll-github-metadata", "~> 1.0"
 end
-#ruby gem 'jekyll-seo-tag'
+ruby
+  gem 'jekyll-seo-tag'
