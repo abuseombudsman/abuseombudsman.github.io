@@ -27,7 +27,7 @@ Los tags SEO del motor de construcción del site agregan los siguientes tags de 
 * [Open Graph](https://ogp.me/) título de la página, descripción de la página, título del sitio y URL:es (de Facebook, LinkedIn, etc)
 * [Tarjeta de resúmen de Twitter](https://dev.twitter.com/cards/overview) metadatos
 
-Mientras tu podrías agregar los tags de metadatos por tu cuenta, los tags SEO están probados por fuego y mantienen todas las etiquetas foguiadas.䲜
+Mientras tu podrías agregar los tags de metadatos por tu cuenta, los tags SEO están probados por fuego y mantienen todas las etiquetas foguiadas.
 
 
 
