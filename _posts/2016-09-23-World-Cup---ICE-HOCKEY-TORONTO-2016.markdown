@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title: "World Cup - ICE HOCKEY TORONTO 2016"
 date: 2016-09-24 00:16 +02:00
-permalink: live
+categories: live
 --- 
 # World Cup - ICE HOCKEY TORONTO 2016
 Channel IGRA live coverege.
