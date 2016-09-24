@@ -16,5 +16,6 @@ Argentina.
 <html>
 <a href="/images/proseguire.jpg"><img src="/images/proseguire.jpg" width="600"></a><br><br>
 <a href="/images/amarheloeneutro.jpg"><img src="/images/amarheloeneutro.jpg" width="600"></a>
+<a href="/images/challenge.jpg"><img src="/images/challenge.jpg" width="600"></a>
 </html>
 
