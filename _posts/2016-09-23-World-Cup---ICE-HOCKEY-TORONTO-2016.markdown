@@ -10,5 +10,5 @@ Channel IGRA live coverege.
 <a href="https://abuseombudsman.github.io">700+ channels - FREE IPTV</a>
 <a href="/images/worldcup.jpg"><img src="/images/worldcup.jpg" width="600"></a>
 </html>
-䲜
+
 
