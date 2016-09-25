@@ -8,7 +8,7 @@ categories: live icehockey
 Channel IGRA live coverege.
 <html>
 <a href="https://abuseombudsman.github.io">700+ channels - FREE IPTV</a>
-<a href="/images/worldcup.jpg"><img src="/images/worldcup.jpg" width="600"></a>
+<a href="/images/worldcup.jpg"><img src="/images/worldcup.jpg" width="600"></a>䲜
 </html>
 
 
