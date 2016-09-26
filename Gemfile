@@ -24,6 +24,6 @@ group :jekyll_plugins do
 	gem "github-pages", "~> 96"
 	gem "liquid", "~> 3.0.6"
 	gem "kramdown", "~> 1.11.1"
-#   gem "jekyll-github-metadata", "~> 1.0"
+        gem "jekyll-github-metadata", "~> 1.0"
 end
 #gem 'jekyll-seo-tag'
