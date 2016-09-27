@@ -61,7 +61,7 @@ El tag SEO de jekyll no está diseñado para cubrir todas las posibilidades habi
 
 ## Funcionamiento
 
-El tag de SEO respeta cualquier cosa de lo siguiente si es incluído en el documento `_config.yml` de tu sitio (y simplemente no incluir si no está definidio ahí):
+El tag de SEO respeta cualquier cosa de lo siguiente si es incluído en el documento `_config.yml` de tu sitio (y simplemente no incluye si no está definidio ahí):
 
 * `title` - El título de tu sitio (o sea, el magnífico sitio de Ben, El Blog de Github, etc.)
 * `description` - Una descripción corta de tu sitio (o sea, un sitio dedicado a fotos de gatos, etc.)

@@ -19,7 +19,7 @@ gem "minima"
 # gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-group :jekyll_plugins do
+gem "github-pages", group :jekyll_plugins do
 	gem "jekyll-seo-tag", "~> 2.0.0"
 	gem "github-pages", "~> 96"
 	gem "liquid", "~> 3.0.6"
