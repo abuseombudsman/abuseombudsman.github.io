@@ -106,6 +106,7 @@ Released   : 20120108
           													<path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         												</svg>
 									        </a>
+										<a href="//iptv.zone/playlist/124743"><span><img src="/assets/radar-bueno.jpg" widht="25" class="alignleft border"></span></a>
 										<p>Ésta lista es mantenida por <a href="https://abuseombudsman.github.io" rel="nofollow">abuseombudsman</a> actualizada</p>
 									</section>
 								</div>
@@ -115,12 +116,14 @@ Released   : 20120108
 						<ul>
 							<li>
 								<h2>Categories</h2>
-								<ul>{% for post in CATEGORY.categories %}
+								<ul>
 									<li>
-										<span>CATEGORY</span>
+									{% for post in site.categories %}
+										<span>{{ CATEGORY | escape }}</span>
 										<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a><br>
+									{% endfor %}
 									</li>
-								    {% endfor %}
+								    
 								</ul>
 							</li>
 							<li>
