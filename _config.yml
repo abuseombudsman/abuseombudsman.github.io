@@ -4,11 +4,15 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-yml: version
+#yml: version
 # Site settings
-yml:
-  gems:
-    - jekyll-seo-tag
+#yml:
+#  gems:
+#    - jekyll-seo-tag
+
+gems:
+  - jekyll-seo-tag
+  
 title: Abuse Ombudsman GitHub Page
 email: abuse.ombudsman@gmail.com
 description: "abuse.ombudsman@gmail.com defiende el derecho a salvarse de la humillaciòn
