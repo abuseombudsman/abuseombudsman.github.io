@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Jekyll 3.2.1"
-date:   2016-09-27
+date:   2016-09-27       +02:00
 categories: jekyll jekyll-3.2.1
 image: "/assets/deploy-engine.jpg"
 ---
 <div id="entry">
 						<div class="Motor">
-							<h2 class="title"><a href="/_posts/#Motor">Motor Constructor Jekyll 3.2.1</a></h2>
+							<h2 class="title"><a href="//localhost:4000/jekyll/jekyll-3.2.1/2016/09/27/Motor-Constructor-Jekyll-3.2.1.html">Motor Constructor Jekyll 3.2.1</a></h2>
 						</div>
 							<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 27, 2016
-								&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="/_posts/#'Motor'" class="permalink">Full article</a></p>
+								&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="http://localhost:4000/jekyll/jekyll-3.2.1/2016/09/27/Motor-Constructor-Jekyll-3.2.1.html" class="permalink">Full article</a></p>
 							
 								<p><img src="/assets/deploy-engine.jpg" alt="jekyll-3.2.1" class="alignleft border" />Jekyll es un motor de construcción de sitios estáticos, con blog inteligente, perfecto para sitios personales, de un proyecto o de una organización. Pensá en jekyll como si fuera un CMS (Content Management System) basado en documentos sin toda la complejidad de esos sistemas. Jekyll acepta tu contenido, y lo formatea con Markdown o con CDN:es Liquid, obteniéndose el resultado de un sitio web estático pronto para ser servido por un servidor de web Apache o Nginx u otro servidor de web. Jekyll es el motor constructor detrás de <a href="//pages.github.com">GitHub Pages</a> desde el cual, tu puedes hospedar, un sitio directamente desde un repositorio en Github y todo gratuítamente.</p><br><br>
  
@@ -53,7 +53,7 @@ image: "/assets/deploy-engine.jpg"
 sobre Rieles.</p>
 
 <p>Por favor acepta y aplica este código de conducta cuando te pongas en contacto con
-la comunidad comunista de jekyll. Se desea enfàticamente que este código se aplique
+la comunidad jekyll. Se desea enfàticamente que este código se aplique
 en todo repositorio oficial jekyll, sitios web o recurso. Si descubres algún infractor 
 de estos términos, contacta a alguno de los encargados del mantenimiento del proyecto: 
 <a href="//github.com/parkr">@parkr</a>, <a href="//github.com/envygeeks">@envygeeks</a> o 

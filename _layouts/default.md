@@ -119,7 +119,7 @@ Released   : 20120108
 								<ul>
 									<li>
 									{% for post in site.categories %}
-										<span>{{ CATEGORY | escape }}</span>
+										<span>{{ site.categories.CATEGORY }}</span>
 										<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a><br>
 									{% endfor %}
 									</li>
