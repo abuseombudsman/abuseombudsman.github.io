@@ -90,7 +90,7 @@ Released   : 20120108
 			<div id="page-bgbtm">
 				<div id="page-content">
 					<div id="content">
-						{{ content }}䲜
+						{{ content }}
 						<div style="clear: both;">&nbsp;</div>
 					</div>
 					<!-- end #content -->
