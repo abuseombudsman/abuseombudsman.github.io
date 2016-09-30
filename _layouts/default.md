@@ -43,7 +43,7 @@ Released   : 20120108
   ga('send', 'pageview');
 
 </script>
-{% seo %}
+{% seo title=false %}
 </head>
 <body>
 <div id="wrapper">
