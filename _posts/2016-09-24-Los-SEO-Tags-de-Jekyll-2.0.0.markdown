@@ -5,17 +5,18 @@ date:   2016-09-28 05:52:19 +02:00
 categories: jekyll jekyll-seo-tag-2.0.0
 image: "/assets/deploy-engine.jpg"
 ---
+<div id="top">
 <div id="entry">
 						<div class="Los SEO">
 							<h2 class="title"><a href="//localhost:4000/jekyll/jekyll-seo-tag-2.0.0/2016/09/28/Los-SEO-Tags-de-Jekyll-2.0.0.markdown">Los SEO Tags de Jekyll 2.0.0</a></h2>
 						</div>
 							<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 28, 2016
-								&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="//localhost:4000/jekyll/jekyll-seo-tag-2.0.0/2016/09/28/Los-SEO-Tags-de-Jekyll-2.0.0.markdown" class="permalink">Full article</a></p>
+								&nbsp;&bull;&nbsp; <a href="#somebodiescomments" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="//localhost:4000/jekyll/jekyll-seo-tag-2.0.0/2016/09/28/Los-SEO-Tags-de-Jekyll-2.0.0.html" class="permalink">Full article</a></p>
 							
 								<p><img src="/images/zodìaco.jpg" width="186" height="186" alt="" class="alignleft border" />Extensión de jekyll que permite agregar tags de metadatos a motores de búsqueda y redes sociales para obtener mejor posicionamiento en los resultados de búsqueda y para mostrar mejor el contenido de tu página.</p><br><br>
  
 <p><a href="//badge.fury.io/rb/jekyll-seo-tag"><img src="//badge.fury.io/rb/jekyll-seo-tag.svg"></a>  <a href="//travis-ci.org/jekyll/jekyll-seo-tag"><img src="//travis-ci.org/jekyll/jekyll-seo-tag.svg"></a></p><br><br>
-</div>
+</div></div>
 
 <div id="entry">
 						<div class="Los SEO">
@@ -182,18 +183,21 @@ image: "/assets/deploy-engine.jpg"
   author: benbalter
   {% endhighlight yml %}</pre></p><br>
 </div>
-
+<div id="somebodiescomments">
+<a href="#top" alt="top"><span>top</span></a>
 <div id="entry">
 						<div class="Los SEO">
-							<h2 class="title">Interactivo</h2><br>
-						</div>
+							<div id="Los-SEO-Tags-de-Jekyll-2.0.0.html/#somebodiescomments">
+							<h2 class="title">Interactivo</h2>
+						</div><br>
+						
 <p>Visitors can now use &lt;b&gt;,&lt;i&gt;,&lt;strong&gt;,&lt;em&gt; tags in their comments.</p><br>
 <!-- begin wwww.htmlcommentbox.com [//www.htmlcommentbox.com/static/skins/simple]-->
- <p><div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...</div>
- <link rel="stylesheet" type="text/css" href="/css/skin.css" /></p></div>
+ <p><div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...
+ <!--<link rel="stylesheet" type="text/css" href="/css/skin.css" /></p>--></p></div>
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24u.alpuLPGbhS%2FWHWXPTN30"+"&opts=22526&num=10&ts=1475055566702");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
-䲜
+
 								
 							
 

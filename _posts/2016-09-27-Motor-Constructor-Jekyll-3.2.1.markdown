@@ -5,17 +5,18 @@ date:   2016-09-27       +02:00
 categories: jekyll jekyll-3.2.1
 image: "/assets/deploy-engine.jpg"
 ---
+<div id="top">
 <div id="entry">
 						<div class="Motor">
 							<h2 class="title"><a href="//localhost:4000/jekyll/jekyll-3.2.1/2016/09/27/Motor-Constructor-Jekyll-3.2.1.html">Motor Constructor Jekyll 3.2.1</a></h2>
 						</div>
 							<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 27, 2016
-								&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="http://localhost:4000/jekyll/jekyll-3.2.1/2016/09/27/Motor-Constructor-Jekyll-3.2.1.html" class="permalink">Full article</a></p>
+								&nbsp;&bull;&nbsp; <a href="#somebodiescomments" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="http://localhost:4000/jekyll/jekyll-3.2.1/2016/09/27/Motor-Constructor-Jekyll-3.2.1.html" class="permalink">Full article</a></p>
 							
 								<p><img src="/assets/deploy-engine.jpg" alt="jekyll-3.2.1" class="alignleft border" />Jekyll es un motor de construcción de sitios estáticos, con blog inteligente, perfecto para sitios personales, de un proyecto o de una organización. Pensá en jekyll como si fuera un CMS (Content Management System) basado en documentos sin toda la complejidad de esos sistemas. Jekyll acepta tu contenido, y lo formatea con Markdown o con CDN:es Liquid, obteniéndose el resultado de un sitio web estático pronto para ser servido por un servidor de web Apache o Nginx u otro servidor de web. Jekyll es el motor constructor detrás de <a href="//pages.github.com">GitHub Pages</a> desde el cual, tu puedes hospedar, un sitio directamente desde un repositorio en Github y todo gratuítamente.</p><br><br>
  
 <p><a href="//rubygems.org/gems/jekyll"><span><img src="//img.shields.io/gem/v/jekyll.svg"></span></a>  <a href="//travis-ci.org/jekyll/jekyll"><span><img src="//img.shields.io/travis/jekyll/jekyll/master.svg?label=Linux%20build">   </span></a>  <a href="//ci.appveyor.com/project/jekyll/jekyll/branch/master"><span><img src="//img.shields.io/appveyor/ci/jekyll/jekyll/master.svg?label=Windows%20build"></span></a>  <a href="//codeclimate.com/github/jekyll/jekyll/coverage"><span><img src="//img.shields.io/codeclimate/coverage/github/jekyll/jekyll.svg"></span></a>  <a href="//codeclimate.com/github/jekyll/jekyll"><span><img src="//img.shields.io/codeclimate/github/jekyll/jekyll.svg"></span></a>  <a href="//gemnasium.com/jekyll/jekyll"><span><img src="//img.shields.io/gemnasium/jekyll/jekyll.svg"></span></a>  <a href="//hakiri.io/github/jekyll/jekyll/master"><span><img src="//hakiri.io/github/jekyll/jekyll/master.svg"></span></a></p><br><br>
-</div>
+</div></div>
 
 <div id="entry">
 						<div class="Motor">
@@ -78,7 +79,8 @@ de estos términos, contacta a alguno de los encargados del mantenimiento del pr
 						</div>
 <p>Ver el documento de la <a href="//github.com/jekyll/jekyll/blob/master/LICENSE"><span style="color #4439DC;">LICENCIA</span></a>.</p></div><br>
 
-
+<div id="somebodiescomments">
+<a href="#top" alt="top">top</a>
 <div id="entry">
 						<div class="Los SEO">
 							<h2 class="title">Interactivo</h2><br>
@@ -86,7 +88,7 @@ de estos términos, contacta a alguno de los encargados del mantenimiento del pr
 <p>Visitors can now use &lt;b&gt;,&lt;i&gt;,&lt;strong&gt;,&lt;em&gt; tags in their comments.</p><br>
 <!-- begin wwww.htmlcommentbox.com [//www.htmlcommentbox.com/static/skins/simple]-->
  <p><div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...</div>
- <link rel="stylesheet" type="text/css" href="/css/skin.css" /></p></div>
+ <!--<link rel="stylesheet" type="text/css" href="/css/skin.css" />--></p></div></div>
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24u.alpuLPGbhS%2FWHWXPTN30"+"&opts=22526&num=10&ts=1475055566702");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
 
