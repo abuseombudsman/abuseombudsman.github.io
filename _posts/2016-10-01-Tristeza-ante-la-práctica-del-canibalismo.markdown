@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Tristeza ante la práctica del canibalismo"
-date:   2016-10-01 17:42:55 +02:00
+title: "Tristeza ante la práctica del canibalismo"
+date: 2016-10-01 17:42:55 +02:00
+description: "La modernización de la campaña del Uruguay pasa por erradicar la ganadería intensiva. El deporte completa cuerpo sano en mente sana, no tiene nada que ver con grasa animal en los vasos sanguineos, el infarto o la arterios-clorosis que ocasionan la grasa animal. En otras palabras el deporte no tiene nada que ver con el canibalismo, ni con comerse al prójimo porque es rico."
 categories: canibalismo 'derechos humanos' 'human-rights'
 image: "/images/vietnam09.png"
 ---
