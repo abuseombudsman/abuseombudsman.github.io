@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: post
+date: 2016-10-04 15:54:04 +02:00
 title: Vietnam channels
-permalink: /photos/
+categories: [ 'IPTV' ]
+description: "Unas fotos de los canales vietnamitas que demuestra la calidad de imágen, aunque después de un tiempo pasó lo que suele pasar con los canales de televisión, primero se cortaban y luego dejaron de funcionar. Sin embargo éstas fotos como por ejemplo las del taller del avión del air-bus demuestran que vietnam ahora unido es una nación altamente industrializada."
 ---
 <div class="entry">
 								<img src="/images/tv-vietnam001.png" width="600">
