@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll SEO Tag - 2.0.0"
 date:   2016-09-28 05:52:19 +02:00
-categories: jekyll jekyll-seo-tag-2.0.0
+categories: [ 'motor constructor de páginas web', 'extensiones' ]
 image: "/assets/deploy-engine.jpg"
 ---
 <div id="top">
@@ -185,18 +185,7 @@ image: "/assets/deploy-engine.jpg"
 </div>
 <div id="somebodiescomments">
 <a href="#top" alt="top"><span>top</span></a>
-<div id="entry">
-						<div class="Los SEO">
-							<div id="Los-SEO-Tags-de-Jekyll-2.0.0.html/#somebodiescomments">
-							<h2 class="title">Interactivo</h2>
-						</div><br>
-						
-<p>Visitors can now use &lt;b&gt;,&lt;i&gt;,&lt;strong&gt;,&lt;em&gt; tags in their comments.</p><br>
-<!-- begin wwww.htmlcommentbox.com [//www.htmlcommentbox.com/static/skins/simple]-->
- <p><div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...
- <!--<link rel="stylesheet" type="text/css" href="/css/skin.css" /></p>--></p></div>
- <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24u.alpuLPGbhS%2FWHWXPTN30"+"&opts=22526&num=10&ts=1475055566702");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-<!-- end www.htmlcommentbox.com -->
+
 
 								
 							

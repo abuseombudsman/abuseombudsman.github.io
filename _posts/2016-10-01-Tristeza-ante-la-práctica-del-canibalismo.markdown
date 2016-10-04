@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Tristeza ante la práctica del canibalismo"
+title: "Tristeza"
 date: 2016-10-01 17:42:55 +02:00
-description: "La modernización de la campaña del Uruguay pasa por erradicar la ganadería intensiva. El deporte completa cuerpo sano en mente sana, no tiene nada que ver con grasa animal en los vasos sanguineos, el infarto o la arterios-clorosis que ocasionan la grasa animal. En otras palabras el deporte no tiene nada que ver con el canibalismo, ni con comerse al prójimo porque es rico."
-categories: canibalismo 'derechos humanos' 'human-rights'
+description: "La modernización de la campaña del Uruguay pasa por erradicar la ganadería intensiva e intensivar la agricultura intensiva. El deporte completa cuerpo sano en mente sana, no tiene nada que ver con grasa animal en los vasos sanguineos, el infarto o la arterios-clorosis que ocasionan la grasa animal. En otras palabras el deporte no tiene nada que ver con el canibalismo, ni con comerse al prójimo porque es rico."
+categories: [ 'canibalismo' ]
 image: "/images/vietnam09.png"
 ---
 <div id="top">
@@ -31,16 +31,7 @@ image: "/images/vietnam09.png"
 
 <div id="somebodiescomments">
 <a href="#top" alt="top">top</a>
-<div id="entry">
-						<div class="Los SEO">
-							<h2 class="title">Interactivo</h2><br>
-						</div>
-<p>Visitors can now use &lt;b&gt;,&lt;i&gt;,&lt;strong&gt;,&lt;em&gt; tags in their comments.</p><br>
-<!-- begin wwww.htmlcommentbox.com [//www.htmlcommentbox.com/static/skins/simple]-->
- <p><div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...</div>
- <!--<link rel="stylesheet" type="text/css" href="/css/skin.css" />--></p></div></div>
- <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24u.alpuLPGbhS%2FWHWXPTN30"+"&opts=22526&num=10&ts=1475055566702");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-<!-- end www.htmlcommentbox.com -->
+
 
 
 								

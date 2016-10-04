@@ -91,64 +91,73 @@ Released   : 20120108
 				<div id="page-content">
 					<div id="content">
 						{{ content }}
-						<div style="clear: both;">&nbsp;</div>
+						<br><br><div id="comments">
+							<!-- begin wwww.htmlcommentbox.com -->
+ <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24u.alpuLPGbhS%2FWHWXPTN30"+"&opts=16862&num=10&ts=1475575670667");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end www.htmlcommentbox.com -->
+						</div>
+						
+						
+					<div style="clear: both;">&nbsp;</div>	
 					</div>
+					
 					<!-- end #content -->
 					<div id="sidebar">
-						<ul class="style1">
+						<!-- <ul class="style1">
 							<li class="first">	
 
-								<div class="3.5u">
-									<section>
-										<a href="/FDCservers_net_Haarlem2.m3u"><h2>FREE IPTV LIST</h2></a>
-										<a href="/FDCservers_net_Haarlem3.m3u" class="list-icon">
+								<div class="3.5u"> -->
+									<div id="entry">
+										<div class="free IPTV list">
+											<h2 class="title">FREE IPTV LIST
+											</h2>
+										</div>
+										<p><a href="/iptv-COIMVNCPZJFIDL13.m3u" class="list-icon">
 													<svg viewBox="0 0 18 15" width="35" alt="list-35">
           													<path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
           													<path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
           													<path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         												</svg>
-									        </a>
-										<a href="//iptv.zone/playlist/124743"><span><img src="/assets/radar-bueno.jpg" widht="25" class="alignleft border"></span></a>
-										<p>Ésta lista es mantenida por <a href="https://abuseombudsman.github.io" rel="nofollow">abuseombudsman</a> actualizada</p>
-									</section>
-								</div>
+									        </a>Ésta lista es mantenida actualizada por <a href="https://abuseombudsman.github.io" rel="nofollow">abuseombudsman</a></p>
+									</div>
+								<!-- </div>
 								
 							</li>
-						</ul>
+						</ul> -->
 						<ul>
 							<li>
 								<h2>Categories</h2>
-								<ul>
-									<li>
-									{% for post in site.categories %}
-										<span>{{ site.categories.CATEGORY }}</span>
-										<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a><br>
+								
+									
+									<span style="color #91E34C">Tagged with</span> {{ page.categories | join: ', ' }}
+									 {% for category in site.categories %} 
+  										<li><a name="{{ category | first }}">{{ category | first }}</a>
+    											<ul>
+    											{% for posts in category %}
+      												{% for post in posts %}
+        												<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      												{% endfor %}
+    											{% endfor %}
+    											</ul>
+  										</li>
 									{% endfor %}
-									</li>
-								    
-								</ul>
 							</li>
-							<li>
-								<h2>Blogroll</h2>
-								<ul>
-									<li><a href="#">Aliquam libero</a></li>
-									<li><a href="#">Consectetuer adipiscing elit</a></li>
-									<li><a href="#">Metus aliquam pellentesque</a></li>
-									<li><a href="#">Suspendisse iaculis mauris</a></li>
-									<li><a href="#">Urnanet non molestie semper</a></li>
-									<li><a href="#">Proin gravida orci porttitor</a></li>
-								</ul>
-							</li>
+							
 							<li>
 								<h2>Archives</h2>
-								<ul>
-									<li><a href="#">Aliquam libero</a></li>
-									<li><a href="#">Consectetuer adipiscing elit</a></li>
-									<li><a href="#">Metus aliquam pellentesque</a></li>
-									<li><a href="#">Suspendisse iaculis mauris</a></li>
-									<li><a href="#">Urnanet non molestie semper</a></li>
-									<li><a href="#">Proin gravida orci porttitor</a></li>
-								</ul>
+								{% for post in site.posts %}
+  									{% assign currentdate = post.date | date: "%B %Y" %}
+  									{% if currentdate != date %}
+   										{% unless forloop.first %}</ul>{% endunless %}
+    										<h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
+    										<ul>
+    										{% assign date = currentdate %}
+  									{% endif %}
+   										 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  									{% if forloop.last %}</ul>{% endif %}
+								{% endfor %}
 							</li>
 						</ul>
 					</div>
@@ -157,6 +166,7 @@ Released   : 20120108
 				<div style="clear: both;">&nbsp;</div>
 			</div>
 		</div>
+	
 	</div>
 	<!-- end #page -->
 </div>

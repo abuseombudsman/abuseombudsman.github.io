@@ -2,13 +2,13 @@
 layout: post
 title:  "Jekyll 3.2.1"
 date:   2016-09-27       +02:00
-categories: jekyll jekyll-3.2.1
+categories: [ 'motor constructor de páginas web' ]
 image: "/assets/deploy-engine.jpg"
 ---
 <div id="top">
 <div id="entry">
 						<div class="Motor">
-							<h2 class="title"><a href="//localhost:4000/jekyll/jekyll-3.2.1/2016/09/27/Motor-Constructor-Jekyll-3.2.1.html">Motor Constructor Jekyll 3.2.1</a></h2>
+							<h2 class="title"><a href="//localhost:4000/jekyll/jekyll-3.2.1/2016/09/27/Motor-Constructor-Jekyll-3.2.1.html">Motor Constructor de Páginas web - Jekyll 3.2.1</a></h2>
 						</div>
 							<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 27, 2016
 								&nbsp;&bull;&nbsp; <a href="#somebodiescomments" class="comments">Comments </a> &nbsp;&bull;&nbsp; <a href="http://localhost:4000/jekyll/jekyll-3.2.1/2016/09/27/Motor-Constructor-Jekyll-3.2.1.html" class="permalink">Full article</a></p>
@@ -81,16 +81,7 @@ de estos términos, contacta a alguno de los encargados del mantenimiento del pr
 
 <div id="somebodiescomments">
 <a href="#top" alt="top">top</a>
-<div id="entry">
-						<div class="Los SEO">
-							<h2 class="title">Interactivo</h2><br>
-						</div>
-<p>Visitors can now use &lt;b&gt;,&lt;i&gt;,&lt;strong&gt;,&lt;em&gt; tags in their comments.</p><br>
-<!-- begin wwww.htmlcommentbox.com [//www.htmlcommentbox.com/static/skins/simple]-->
- <p><div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...</div>
- <!--<link rel="stylesheet" type="text/css" href="/css/skin.css" />--></p></div></div>
- <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24u.alpuLPGbhS%2FWHWXPTN30"+"&opts=22526&num=10&ts=1475055566702");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-<!-- end www.htmlcommentbox.com -->
+
 
 								
 							
