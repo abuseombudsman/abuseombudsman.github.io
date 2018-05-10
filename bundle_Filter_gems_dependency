@@ -1,0 +1,8 @@
+AutolinkFilter - rinku
+EmailReplyFilter - escape_utils, email_reply_parser
+EmojiFilter - gemoji
+MarkdownFilter - commonmarker
+PlainTextInputFilter - escape_utils
+SanitizationFilter - sanitize
+SyntaxHighlightFilter - rouge
+TextileFilter - RedCloth
