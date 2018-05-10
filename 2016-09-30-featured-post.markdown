@@ -7,30 +7,17 @@ image: "/assets/tarot.jpg"
 
 
 <div id="entry">						<div class="featured">
-									<h2 class="title"><a href="/about/#El Asador">Featured Post</a></h2>
-								</div>
-								<p class="meta">Posted by <a href="//abuseombudsman.github.io">jekyll</a> on September 30, 2016
-								&nbsp;•&nbsp; <a href="#" class="comments">Comments </a> &nbsp;•&nbsp; <a href="/about/#'El Asador'" class="permalink">Full article</a></p>
-								<p><img src="/assets/CULTURA.png" width="186" alt="CULTURA" class="alignleft border" />This is not the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="//jekyllrb.com">jekyllrb.com</a></p>
-								<p>You can find the source code for the Jekyll new theme at: <a href="//github.com/jekyll"><span class="fa fa-github">jekyll/</span></a><a href="//github.com/jekyll/minima"><span>minima</span></a></p>
-								<p>You can find the source code for Jekyll at <a href="//github.com/jekyll/jekyll"><span class="fa fa-github">jekyll/</span></a><a href="//github.com/jekyll/jekyll"><span>jekyll</span></a></p>
-								<p>This is jekyll but this is Embodied CDN, free, fully standards-compliant CSS template designed by <a href="//templated.co">TEMPLATED</a> The picture in this template is from <a href="//cultura.ml">(ND)CULTURA &trade;. </a> This free template is released under the <a href="templated.co/license">Creative Commons Attribution</a> license. Allso we 're proudly powered by <a href="//jekyllrb.com">jekyll</a> free deployment engine and <a href="//templated.co">TEMPLATED</a> free CDN for everybody.</p>
-</div><br>
-
-
-
-
-
-
+</div></div>
 <div id="entry"><div class="El Asador">
 									<h2 class="title"><a href="/about/#El Asador">El Asador</a></h2>
 								</div>
 								<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 20, 2016
 								&nbsp;•&nbsp; <a href="#" class="comments">Comments </a> &nbsp;•&nbsp; <a href="/about/#'El Asador'" class="permalink">Full article</a></p>
 							
-							<p><img src="/assets/südvietnam.jpg" width="186" alt="el asador" class="alignright border" />El asador representa antes que nada y ni màs ni menos un boquete en la seguridad del Estado Democràtico. Los paìses que tienen asadores se caracterizan entonces por la desuniòn, el sarcasmo a los màs dèbiles, por lo general son Estados de marcadas desigualdades econòmicas en donde los grandes permanecen impùnes y la traiciòn al pròjimo està a la vuelta de la esquina, todo esto en un marco de sarcasmo y fanfarronerìa que como decía la banda de rock Hermética era como una burbujeante orgìa de magia negra. Es salado el tema del asador.</p>
-							<p>La traiciòn (la putada) està a la vuelta de la esquina, rompiendo el sentimiento de uniòn y pertenencia del conjunto de la gente a un Estado Solidario y Democràtico. Labomba de los asadores es un ataque tècnicamente perfecto por parte de los estados mercantilistas a sus rivales Progresistas y Socialistas. Cuando los Estados Democràticos caen en èsta tìpica situaciòn del mundo mercantilista manejado por la oligarquìa la quedan en todos los òrdenes de la palabra, en el plano sociale se arrastramos en la baja moral, la basura diaria, nos agòbian las habladurìas, la traiciòn y el sarcasmo terminan por romper todos los òrdenes de la sociedad. Las vìctimas màs evidentes son las jòvenes que se acercan a ése trascendental paso de tener un hijo aunque yo creo que a una madre le conviene tener una hija para estar más acompañada a la vejez, aunque presiento que lo más normal debe ser tener uno y una para seguir todo en la normalidad neutra y no obstruyendo el paso màs bàsico de la evolucìòn. ¿Porquè la traición y los asadores?</p>
-							<p>El mercantilismo es un desequilibrante en la sociedad, son impùnes los grandes, los resquemores estàn al orden del dìa (crean la desuniòn) como decìa son impùnes los grandes y se aseguran que la desuniòn reine en el Estado anti-democràtico super-mercantilista y la mente del asador indirectamente oligarca, y porque no directamente oligarca, finaliza con la desmoralizaciòn de la sociedad, la descolectivizaciòn, el ostracismo y aislamiento del individuo, la tristeza. Este sistema es utlizado en cuanta guerra Estados-Unidos ha estado involucrado en el mundo. Por ejemplo LaArgentina jamàs tuvo una chance en el tema deMalvinas con la existencia de asadores porteños en la sociedad bonaerense. Por hoy, nada màs. ¡Ma§sticarla!</p>
+							<p><img src="/assets/südvietnam.jpg" width="186" alt="el asador" class="alignright border" />El asador representa antes que nada y ni màs ni menos un boquete en la seguridad del Estado Democràtico. Los paìses que tienen asadores se caracterizan entonces por la desuniòn, el sarcasmo a los màs dèbiles, por lo general son Estados de marcadas desigualdades econòmicas en donde los grandes permanecen impùnes y la traiciòn al pròjimo està a la vuelta de la esquina, todo esto en un marco de sarcasmo y fanfarronerìa que como decía la banda de rock Hermética era como una burbujeante orgìa de magia negra. Es salado el tema del asador.</p><br>
+							<p>La traiciòn (la putada) està a la vuelta de la esquina, rompiendo el sentimiento de uniòn y pertenencia del conjunto de la gente a un Estado Solidario y Democràtico. Labomba de los asadores es un ataque tècnicamente perfecto por parte de los estados mercantilistas a sus rivales Progresistas y Socialistas. Cuando los Estados Democràticos caen en èsta tìpica situaciòn del mundo mercantilista manejado por la oligarquìa la quedan en todos los òrdenes de la palabra, en el plano sociale se arrastramos en la baja moral, la basura diaria, nos agòbian las habladurìas, la traiciòn y el sarcasmo terminan por romper todos los òrdenes de la sociedad. Las vìctimas màs evidentes son las jòvenes que se acercan a ése trascendental paso de tener un hijo aunque yo creo que a una madre le conviene tener una hija para estar más acompañada a la vejez, aunque presiento que lo más normal debe ser tener uno y una para seguir todo en la normalidad neutra y no obstruyendo el paso màs bàsico de la evolucìòn. ¿Porquè la traición y los asadores?</p><br>
+							<p>El mercantilismo es un desequilibrante en la sociedad, son impùnes los grandes, los resquemores estàn al orden del dìa (crean la desuniòn) como decìa son impùnes los grandes y se aseguran que la desuniòn reine en el Estado anti-democràtico super-mercantilista y la mente del asador indirectamente oligarca, y porque no directamente oligarca, finaliza con la desmoralizaciòn de la sociedad, la descolectivizaciòn, el ostracismo y aislamiento del individuo, la tristeza. Este sistema es utlizado en cuanta guerra Estados-Unidos ha estado involucrado en el mundo. Por ejemplo LaArgentina jamàs tuvo una chance en el tema deMalvinas con la existencia de asadores porteños en la sociedad bonaerense. Por hoy, nada màs. ¡Ma§sticarla!</p><br>
+
 </div><br>
 
 <div id="entry"><div class="Chardikla">

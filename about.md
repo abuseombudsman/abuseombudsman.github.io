@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 description: "El editorial de (ND)CULTURA. Nosotros creemos que el obstáculo más grande que la sociedad encuentra para llegar a la evolución es la existencia de asadores en la sociedad. Por eso nuestra editorial alarma la precencia negativa de: El Asador. Seguido en nuestro buscar el camino a la evolución nos adherimos a la corriente positivista del induismo, les presentamos su vocero oficial principal: Chardikla Time TV LIVE"
 ---
-<div id="entry"><div class="El Asador">
+<div id="post"><div class="El Asador">
 									<h2 class="title"><a href="/about/#El Asador">El Asador</a></h2>
 								</div>
 								<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 20, 2016

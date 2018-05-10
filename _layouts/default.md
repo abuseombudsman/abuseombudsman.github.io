@@ -16,11 +16,11 @@ Released   : 20120108
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+<link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="/css/bootstrap.min.css">
 <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" />
 <link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css' />
-<link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
 <link href="/css/skin.css" rel="stylesheet" type="text/css" media="screen" />
 <link rel="stylesheet" type="text/css" href="/css/bootstrap-widget.css" />
 <link rel="shortcut icon" href="/favicon.ico">
