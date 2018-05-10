@@ -20,7 +20,7 @@ description: "El editorial de (ND)CULTURA. Nosotros creemos que el obstáculo m�
 							<h2 class="title"><a href="/about/#Chardikla">Chardikla Time TV</a></h2></div>
 							<p class="meta">Posted by <a href="//abuseombudsman.github.io">abuseombudsman</a> on September 30, 2016
 								&nbsp;•&nbsp; <a href="#" class="comments">Comments </a> &nbsp;•&nbsp; <a href="/about/#'Chardikla'" class="permalink">Full article</a></p>
-							<p><img src="/assets/tarot.jpg" alt="carma-cero" class="alignright border" width="286">El induismo, sus tradiciones, sus creencias, su folklore, su música, el permanecer la mitad de su población, o el 60% vegetarianos. Yo creo en esos aunque no compartan conmigo que el carma es el número cero, algo muy livianito, nada más. Y debemos apoyar a esa mitad vegetariana si queremos conservar nuestra cultura popular pero es una religión y como el comunismo lo definió es cierto las religiones son el opio de los pueblos. Dicen que este canal transmite siempre en directo.</p><br>
+							<p><img src="/assets/tarot.jpg" alt="carma-cero" class="alignright border" width="286">El induismo, sus tradiciones, sus creencias, su folklore, su música, el permanecer la mitad de su población, o el 60% vegetarianos. Yo creo en esos aunque no compartan conmigo que el carma es el número cero, algo muy livianito, nada más. Y debemos apoyar a esa mitad vegetariana si queremos conservar nuestra cultura popular pero es una religión y como el_comunismo lo definió es cierto las religiones son el opio de los pueblos. Dicen que este canal transmite siempre en directo.</p><br>
 
 <center>
 									<table><tbody>
