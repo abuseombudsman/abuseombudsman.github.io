@@ -43,13 +43,13 @@ image: "/assets/deploy-engine.jpg"
 <span style="color: #810A0A;">*</span>Leer acerca de su <a href="//jekyllrb.com/docs/usage/"><span style="color #4439DC;"> uso</span></a> y su <a href="//jekyllrb.com/docs/configuration/"><span>configuración</span></a>
 <span style="color: #810A0A;">*</span>Mirar ejemplos de<a href="//wiki.github.com/jekyll/jekyll/sites"><span style="color #4439DC;"> sitios</span></a> existentes
 <span style="color: #810A0A;">*</span> <a href="//github.com/jekyll/jekyll/fork"><span style="color #4439DC;">Hacé Fork</span></a> y <a href="//jekyllrb.com/docs/contributing/"><span style="color #4439DC;">Contribuí</span></a>
-<span style="color: #810A0A;">*</span> ¿Tenés preguntas? Descubrí nuestro foro oficial comunista <a href="//talk.jekyllrb.com/"><span style="color #4439DC;">Jekyll Talk</span></a> o <a href="//botbot.me/freenode/jekyll/"><span style="color #4439DC;">` #jekyll ` on irc.freenode.net</span></a></pre></p></div><br>
+<span style="color: #810A0A;">*</span> ¿Tenés dudas? Descubrí el foro oficial <a href="//talk.jekyllrb.com/"><span style="color #4439DC;">Jekyll Talk</span></a> o <a href="//botbot.me/freenode/jekyll/"><span style="color #4439DC;">` #jekyll ` on irc.freenode.net</span></a></pre></p></div><br>
 
 <div id="entry">
 						<div class="Motor">
 							<h2 class="title">Código de Conducta</h2>
 						</div>
-<p>Para pre establecer un comunismo más abierto y fraternal, jekyll se adhiere a
+<p>Para pre establecer un ambiente más abierto y fraternal, jekyll se adhiere a
 <a href="//github.com/xcatliu/jekyllcn/blob/master/CONDUCT.markdown">código de conducta</a> adaptado del código de conducta de Ruby
 sobre Rieles.</p>
 

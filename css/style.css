@@ -779,8 +779,9 @@ div {
 	font-family: Apple-system,BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";:
 }
 .post .title {
-	padding-top: 10px;
-	letter-spacing: -2px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	letter-spacing: 0px;
 }
 
 .post .title a {
