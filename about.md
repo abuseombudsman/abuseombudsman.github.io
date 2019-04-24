@@ -34,7 +34,11 @@ description: "El editorial de (ND)CULTURA. Nosotros creemos que el obst√°culo m√
 		      <tr>
 			<td width="21" background="/images/21210212120.png"></td>
 			<td>
-<div id="media"><iframe src="https://www.youtube.com/embed/im-1cKKd6d8" autostart="true" allowfullscreen="" frameborder="0" height="288" width="432"></iframe></div></td>
+				<div id="media">
+					<iframe width="432" height="288" src="https://www.youtube.com/embed/bC7b6QTsnKc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+					</iframe>
+				</div>
+			</td>
                         <td width="21" background="/images/203233451.png"></td>
                      </tr>
 
