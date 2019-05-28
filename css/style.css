@@ -829,6 +829,7 @@ div {
 	margin: 0;
 	padding: 0;
 	list-style: none;
+	padding-bottom: 10px;
 }
 
 #sidebar li {
@@ -838,7 +839,7 @@ div {
 
 #sidebar li ul {
 	margin: 0px 15px;
-	padding-bottom: 30px;
+	padding-bottom: 0px;
 }
 
 #sidebar li li {

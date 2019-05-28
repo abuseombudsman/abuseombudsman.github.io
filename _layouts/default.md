@@ -52,7 +52,7 @@ Released   : 20120108
 			<div id="logo">
 				<h1><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
 				<br><br><p><span style="color: #E2340F">Powered by </span><a href="http://templated.co" rel="nofollow">TEMPLATED (FREE TEMPLATE)</a></p>
-				
+
 			</div>
 		</div>
 	</div>
@@ -71,9 +71,9 @@ Released   : 20120108
 		<div id="menu">
 			<nav class="site-nav">
       				<a href="#" class="menu-icon">
-        			
+
       				</a>
-				
+
       				<div class="trigger">
         				{% for my_page in site.pages %}
           					{% if my_page.title %}
@@ -98,15 +98,15 @@ Released   : 20120108
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24u.alpuLPGbhS%2FWHWXPTN30"+"&opts=16862&num=10&ts=1475575670667");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
 						</div>
-						
-						
-					<div style="clear: both;">&nbsp;</div>	
+
+
+					<div style="clear: both;">&nbsp;</div>
 					</div>
-					
+
 					<!-- end #content -->
 					<div id="sidebar">
 						<!-- <ul class="style1">
-							<li class="first">	
+							<li class="first">
 
 								<div class="3.5u"> -->
 									<div id="entry">
@@ -123,28 +123,33 @@ Released   : 20120108
 									        </a>Ésta lista es mantenida actualizada por <a href="https://abuseombudsman.github.io" rel="nofollow">abuseombudsman</a></p>
 									</div>
 								<!-- </div>
-								
+
 							</li>
 						</ul> -->
+
+            <br>
+
 						<ul>
 							<li>
 								<h2>Categories</h2>
-								
-									
+
+
 									<span style="color #91E34C">Tagged with</span> {{ page.categories | join: ', ' }}
-									 {% for category in site.categories %} 
+									 {% for category in site.categories %}
   										<li><a name="{{ category | first }}">{{ category | first }}</a>
     											<ul>
     											{% for posts in category %}
       												{% for post in posts %}
-        												<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        												<li style="border-bottom: 3px dotted #91E34C"><a href="{{ post.url }}">{{ post.title }}</a></li>
       												{% endfor %}
     											{% endfor %}
     											</ul>
   										</li>
 									{% endfor %}
 							</li>
-							
+
+              <br>
+
 							<li>
 								<h2>Archives</h2>
 								{% for post in site.posts %}
@@ -166,7 +171,7 @@ Released   : 20120108
 				<div style="clear: both;">&nbsp;</div>
 			</div>
 		</div>
-	
+
 	</div>
 	<!-- end #page -->
 </div>

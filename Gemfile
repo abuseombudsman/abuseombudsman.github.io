@@ -13,17 +13,25 @@ source "https://rubygems.org"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"
-
+gem "jekyll", ">= 3.6.3"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-gem "github-pages", group: :jekyll_plugins do
-	gem "jekyll-seo-tag", "~> 2.0.0"
-	gem "github-pages", "~> 96"
-	gem "liquid", "~> 3.0.6"
-	gem "kramdown", "~> 1.11.1"
-        gem "jekyll-github-metadata", "~> 1.0"
-end
+#group :jekyll_plugins do
+#	gem "jekyll-seo-tag", "~> 2.0.0"
+#	gem "github-pages", "~> 96"
+#	gem "liquid", "~> 3.0.6"
+#	gem "kramdown", "~> 1.11.1"
+#  gem "jekyll-github-metadata"
+#end
 #gem 'jekyll-seo-tag'
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+	gem "jekyll-seo-tag", "~> 2.0.0"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jemoji"
+end
