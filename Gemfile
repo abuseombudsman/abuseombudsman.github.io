@@ -29,7 +29,8 @@ gem "jekyll", ">= 3.6.3"
 #gem 'jekyll-seo-tag'
 group :jekyll_plugins do
   gem "jekyll-paginate"
-	gem "jekyll-seo-tag", "~> 2.0.0"
+  gem "jekyll-seo-tag", "~> 2.0.0"
+  gem "nokogiri", ">= 1.10.4"
   gem "jekyll-sitemap"
   gem "jekyll-gist"
   gem "jekyll-feed"
